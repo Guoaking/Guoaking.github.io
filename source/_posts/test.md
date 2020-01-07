@@ -1,7 +1,10 @@
 ---
-title: '''test'''
+title: 'test'
 date: 2020-01-06 14:37:25
+categories: test
 tags:
+	- hexo
+	- others
 ---
 
 ### 一个商城项目
